@@ -108,7 +108,10 @@ calc.html
 ```
 
 ## OUTPUT:
-![image](https://github.com/Bosevennila/Calc/assets/144870486/5da8b8ec-8672-4557-a66c-fa7ce6b168f5)
+![image](https://github.com/Bosevennila/Calc/assets/144870486/c07af2a8-c802-43c2-869d-088344eb9dfe)
+![image](https://github.com/Bosevennila/Calc/assets/144870486/8751e2af-9d74-49c5-bc3c-e49e17688f36)
+
+
 
 
 ## RESULT:
